@@ -37,8 +37,7 @@ PRODUCT_MODEL := G90T Series
 PRODUCT_MANUFACTURER := Realme
 
 # Build info
-BUILD_FINGERPRINT := "google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys"
-PRODUCT_BUILD_PROP_OVERRIDES += \
+BUILD_FINGERPRINT := "google/coral/coral:10/QQ2A.200501.001.B2/6352890:user/release-PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=wasabi \
     PRODUCT_NAME=wasabi \
     PRIVATE_BUILD_DESC="full_oppo6785-user 10 QP1A.190711.020 0b36b6c4f9b3bf3b release-keys"
