@@ -1,5 +1,3 @@
-Copyright (C) 2020 - The Evolution X Project
-
 Device tree for the Realme 6 (RMX2001, RMX2002 and RMX2003) - Realme 6S / Realme 6i India / Realme Narzo (RMX2002)
 =================================================
 
@@ -38,4 +36,8 @@ And add the following lines before the last closing tag
         <permission name="android.permission.UPDATE_DEVICE_STATS"/>
 </privapp-permissions>
 ```
+
+Link for Pixel Experience plus ROM: https://forum.xda-developers.com/t/rom-10-0-unofficial-wasabi-pixel-experience-plus-edition.4193459/
+
+Link for LineageOS ROM: https://forum.xda-developers.com/t/rom-10-0-unofficial-wasabi-lineageos-17-1.4192617/
 
